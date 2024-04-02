@@ -1,1 +1,1 @@
-# CSI-4142-project
+# Welcome to Group 42's OLAP project!
