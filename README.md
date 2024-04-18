@@ -1,1 +1,0 @@
-# Welcome to Group 42's OLAP project!
